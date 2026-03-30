@@ -7,7 +7,7 @@ Sensor Datasheet - https://github.com/COAST-Lab/Open-Water-Level/blob/main/Fabri
 Open Water Level Fabrication github instructions: [
 ](https://github.com/COAST-Lab/Open-Water-Level/tree/main/Fabrication/PVC-Enclosure)
 
-
-
+Github code for the open water level sensor: [
+](https://github.com/SUPScientist/Seaport_Tide-SLR/blob/main/Firmware/SLR_Arduino_Maxbotix_Analog/Full_tide_gauge_sleep_avg_v2/full_tide_gauge_sleep_avg_v2.ino)
 
 
