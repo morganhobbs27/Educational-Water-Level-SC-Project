@@ -10,6 +10,10 @@ Stacking Headers for Feather - 12-pin and 16-pin female headers https://www.adaf
 
 Lithium Ion Battery Pack - 3.7V 6600mAh https://www.adafruit.com/product/353
 
+Assembled Adafruit FeatherWing OLED - 128x32 OLED Add-on For Feather https://www.adafruit.com/product/3045
+
+Adafruit Feather RP2040 Adalogger - 8MB Flash with microSD Card - STEMMA QT / Qwiic https://www.adafruit.com/product/5980
+
 
 Open Water Level Fabrication github instructions: 
 (https://github.com/COAST-Lab/Open-Water-Level/tree/main/Fabrication/PVC-Enclosure)
