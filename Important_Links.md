@@ -6,6 +6,11 @@ Sensor Datasheet - https://github.com/COAST-Lab/Open-Water-Level/blob/main/Fabri
 
 Adalogger FeatherWing - RTC + SD Add-on For All Feather Boards https://www.adafruit.com/product/2922
 
+Stacking Headers for Feather - 12-pin and 16-pin female headers https://www.adafruit.com/product/2830
+
+Lithium Ion Battery Pack - 3.7V 6600mAh https://www.adafruit.com/product/353
+
+
 Open Water Level Fabrication github instructions: 
 (https://github.com/COAST-Lab/Open-Water-Level/tree/main/Fabrication/PVC-Enclosure)
 
