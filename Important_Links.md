@@ -14,6 +14,8 @@ Assembled Adafruit FeatherWing OLED - 128x32 OLED Add-on For Feather https://www
 
 Adafruit Feather RP2040 Adalogger - 8MB Flash with microSD Card - STEMMA QT / Qwiic https://www.adafruit.com/product/5980
 
+FeatherWing Tripler Mini Kit - Prototyping Add-on For Feathers https://www.adafruit.com/product/3417
+
 
 Open Water Level Fabrication github instructions: 
 (https://github.com/COAST-Lab/Open-Water-Level/tree/main/Fabrication/PVC-Enclosure)
