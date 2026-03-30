@@ -4,6 +4,8 @@ Here, add important links for this project with a brief description of what is i
 Maxbotix Ultrasonic Rangefinder - LV-EZ4 - LV-EZ4   https://www.adafruit.com/product/982
 Sensor Datasheet - https://github.com/COAST-Lab/Open-Water-Level/blob/main/Fabrication/Old/Datasheets/LV-MaxSonar-EZ_Datasheet.pdf
 
+Adalogger FeatherWing - RTC + SD Add-on For All Feather Boards https://www.adafruit.com/product/2922
+
 Open Water Level Fabrication github instructions: 
 (https://github.com/COAST-Lab/Open-Water-Level/tree/main/Fabrication/PVC-Enclosure)
 
