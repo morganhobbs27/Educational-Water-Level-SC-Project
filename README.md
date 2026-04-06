@@ -11,7 +11,5 @@ https://github.com/SUPScientist/supscientist.github.io
 
 | Item name           |     Link      |     Price    | fourth header|
 | -------------       | ------------- | ------------ | ------------ |
-| Maxbotix Ultrasonic 
-  Rangefinder -  
-  LV-EZ4 - LV-EZ4     | Content Cell  | 
+| Maxbotix Ultrasonic Rangefinder - LV-EZ4 - LV-EZ4     | Content Cell  | 
 | Content Cell  | Content Cell  |
