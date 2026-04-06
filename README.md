@@ -9,7 +9,9 @@ https://github.com/SUPScientist/supscientist.github.io
 # Materials
 |Item name | Link | Price | Despription/ picture |
 
-| Item name     |     Link      |     Price    | fourth header|
-| ------------- | ------------- | ------------ | ------------ |
-| Content Cell  | Content Cell  | 
+| Item name           |     Link      |     Price    | fourth header|
+| -------------       | ------------- | ------------ | ------------ |
+| Maxbotix Ultrasonic 
+  Rangefinder -  
+  LV-EZ4 - LV-EZ4     | Content Cell  | 
 | Content Cell  | Content Cell  |
