@@ -8,6 +8,7 @@
 // Modified by LCE, 20-Jun-22
 // Modified by MMH, 3-30-26
 
+
 #include <SPI.h>
 #include <Wire.h>
 #include <SD.h>
@@ -79,7 +80,7 @@ void setup() {
   display.display();
 
   display.println("Water"); //write message to screen
-  display.println("Rocks!");
+  display.println("!");
 
   display.setCursor(0, 0);
   display.display(); // actually display all of the above
@@ -130,7 +131,7 @@ void loop() {
     display.println("Dist (in):");
     display.println(range_in); //Counts * (V range/count range) * (Inch range/V range)
     display.display();
-    delay(1000);
+    delay(5000);
     display.clearDisplay();
     display.display();
 
@@ -183,16 +184,13 @@ void loop() {
     float sleep_remainder = sleep_time % 8000;
        
     // This loop puts board into sleep state for number of milliseconds input into desired_sleep_time_ms
+
     for (int i = 0; i < sleep_loops; i++) {
       int sleepMS = Watchdog.sleep(8000); // puts device in low power state for ms, caps at 16 seconds, repeat code to get longer sleep time
     } 
       int sleepMS = Watchdog.sleep(sleep_remainder); // adds on remainder seconds from dividing sleep_time 
   }
-}void setup() {
-  // put your setup code here, to run once:
-
 }
-
 void loop() {
   // put your main code here, to run repeatedly:
 
