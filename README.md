@@ -13,4 +13,5 @@ https://github.com/SUPScientist/supscientist.github.io
 | -------------       | ------------- | ------------ | ------------ |
 | Maxbotix Ultrasonic Rangefinder - LV-EZ4 - LV-EZ4     | https://www.adafruit.com/product/982  | $28.50 | 
 | Stacking Headers for Feather - 12-pin and 16-pin female headers   | https://www.adafruit.com/product/2830\ |
-![SmartCoasts4](https://github.com/user-attachments/assets/4be710a9-ecee-40bd-b1db-4801018f1336)
+|FeatherWing Tripler Mini Kit - Prototyping Add-on For Feathers | https://www.adafruit.com/product/3417 | $8.50|<img width="766" height="505" alt="Screenshot 2026-04-01 at 2 19 38 PM" src="https://github.com/user-attachments/assets/2abca8c2-e3ef-465d-bb70-88f468fc1e7d" />
+
