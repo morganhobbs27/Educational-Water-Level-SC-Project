@@ -7,7 +7,6 @@ https://github.com/SUPScientist/supscientist.github.io
 
 # Sensor Specs
 # Materials
-|Item name | Link | Price | Despription/ picture |
 
 | Item name           |     Link      |     Price    | Description/ picture |
 | -------------       | ------------- | ------------ | ------------ |
