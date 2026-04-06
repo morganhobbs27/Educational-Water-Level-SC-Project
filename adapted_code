@@ -184,7 +184,10 @@ void loop() {
     float sleep_remainder = sleep_time % 8000;
        
     // This loop puts board into sleep state for number of milliseconds input into desired_sleep_time_ms
-
+display.clearDisplay();
+display.setCursor(0,0);
+display.println("Sensing...");
+display.display();
     for (int i = 0; i < sleep_loops; i++) {
       int sleepMS = Watchdog.sleep(8000); // puts device in low power state for ms, caps at 16 seconds, repeat code to get longer sleep time
     } 
