@@ -8,3 +8,8 @@ https://github.com/SUPScientist/supscientist.github.io
 # Sensor Specs
 # Materials
 |Item name | Link | Price | Despription/ picture |
+
+| First Header  | Second Header | Third header | fourth header|
+| ------------- | ------------- | ------------ | ------------ |
+| Content Cell  | Content Cell  | 
+| Content Cell  | Content Cell  |
