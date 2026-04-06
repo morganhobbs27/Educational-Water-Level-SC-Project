@@ -6,3 +6,5 @@ Building a low-cost, simple, and functional water level sensor, modified from co
 https://github.com/SUPScientist/supscientist.github.io
 
 # Sensor Specs
+# Materials
+|Item name | Link | Price | Despription/ picture |
