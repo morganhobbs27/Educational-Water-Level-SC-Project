@@ -9,7 +9,7 @@ https://github.com/SUPScientist/supscientist.github.io
 # Materials
 |Item name | Link | Price | Despription/ picture |
 
-| First Header  | Second Header |
-| ------------- | ------------- |
+| Item name     |       Link    |   Price      |   Decription and picture |
+| ------------- | ------------- | -----------    ---------          
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
