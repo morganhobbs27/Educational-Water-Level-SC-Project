@@ -9,7 +9,7 @@ https://github.com/SUPScientist/supscientist.github.io
 # Materials
 |Item name | Link | Price | Despription/ picture |
 
-| Item name           |     Link      |     Price    | fourth header|
+| Item name           |     Link      |     Price    | Description/ picture |
 | -------------       | ------------- | ------------ | ------------ |
-| Maxbotix Ultrasonic Rangefinder - LV-EZ4 - LV-EZ4     | Content Cell  | 
-| Content Cell  | Content Cell  |
+| Maxbotix Ultrasonic Rangefinder - LV-EZ4 - LV-EZ4     | https://www.adafruit.com/product/982  | $28.50 | 
+| Stacking Headers for Feather - 12-pin and 16-pin female headers   | https://www.adafruit.com/product/2830\ |
