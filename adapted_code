@@ -61,13 +61,25 @@ void setup() {
     display.display();
     while (1) delay(10);
  }
-  // If the rtc has lost power or has a dead battery, it will reset
-  if (!rtc.initialized() || rtc.lostPower()) {
-    display.println("Time reset");
-    rtc.adjust(DateTime(2000, 1, 1, 0, 0, 0)); // Time is reset to midnight on Jan. 1, 2000
-    display.display();
-    delay(1000);
-  }
+ // rtc setup
+if (!rtc.begin()) {
+  display.println("No RTC");
+  display.display();
+  while (1) delay(10);
+}
+
+if (rtc.lostPower()) {
+  display.println("RTC lost power!");
+  display.println("Set time!");
+  display.display();
+
+  // ---- ONE-TIME USE ONLY ----
+  // Uncomment the line below, upload once to set the time,
+  // then comment it back out and upload again.
+  //rtc.adjust(DateTime(F(__DATE__), F(__TIME__)));
+
+  delay(3000);
+}
   // see if the card is present and can be initialized:
   if (!SD.begin(chipSelect)) {
     display.println("No SD card");
@@ -79,8 +91,8 @@ void setup() {
   display.clearDisplay();
   display.display();
 
-  display.println("Water"); //write message to screen
-  display.println("!");
+  display.println("WaterLevel"); //write message to screen
+  display.println("Sensor!");
 
   display.setCursor(0, 0);
   display.display(); // actually display all of the above
@@ -193,8 +205,4 @@ display.display();
     } 
       int sleepMS = Watchdog.sleep(sleep_remainder); // adds on remainder seconds from dividing sleep_time 
   }
-}
-void loop() {
-  // put your main code here, to run repeatedly:
-
 }
