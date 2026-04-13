@@ -1,8 +1,9 @@
+
 # Add all educational steps here:
 ## How to put sensor and boards together:
 
 - Attatch on pins to each board.
-  
+  <img width="217" height="170" alt="Screenshot 2026-04-13 at 11 31 24 AM" src="https://github.com/user-attachments/assets/fca5c5a6-f606-42c1-88f7-65c4ec07b820" />
 - Attatch each board onto FeatherWing tripler.
   
 - Connect and soulder wires onto sensor and OLED display microcontroller, as shown in pictures below. (red and blue will cross).
