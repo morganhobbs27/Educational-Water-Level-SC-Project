@@ -1,10 +1,12 @@
 # Educational-Water-Level-SC-Project
-Repository for all of our work on the educational water level sensor for Smart Coast
+Repository for all of our work on the educational water level sensor for Smart Coasts, OCN479/GLY579 at UNC-Wilmington.
 
 # Goals of the Project
-Building a low-cost, simple, and functional water level sensor, modified from coast-lab.org 's
-https://github.com/SUPScientist/supscientist.github.io
-Make steps for building Water Level Sensor replicable for a high school classroom.
+
+1. Building a low-cost, simple, and functional water level sensor, modeled after coast-lab.org 's 2022 iteration https://github.com/SUPScientist/supscientist.github.io
+2. Creating a new, replicable housing and mounting structure that can be implemented on any dock
+3. Establishing educational resources, specifically and intentionally developed for high school-aged classrooms with low budgets and resources. 
+
 
 # Sensor Specs
 # Materials
