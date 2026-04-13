@@ -9,7 +9,9 @@
 - Attatch each board onto FeatherWing tripler.
   
 - Connect and soulder wires onto sensor and OLED display microcontroller, as shown in pictures below. (red and blue will cross).
-  
+
+  <img width="484" height="271" alt="Screenshot 2026-04-13 at 11 32 15 AM" src="https://github.com/user-attachments/assets/1b7060d7-fff9-4b39-8e16-54b3ca851091" />
+
 - Combine all three sensors on the feather board tripler, as shown below.
 
 - Connect micro USB to computer
