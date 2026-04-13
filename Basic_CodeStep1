@@ -1,3 +1,7 @@
+Copy and paste this code directly into Arduino to flash words on OLED screen.
+
+
+
 #include <Wire.h> 
 
 #include <Adafruit_GFX.h> 
