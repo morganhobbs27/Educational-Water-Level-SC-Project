@@ -1,5 +1,5 @@
 # Add all educational steps here:
-
+## How to put sensor and boards together:
 
 - Attatch on pins to each board.
   
