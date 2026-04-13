@@ -11,6 +11,7 @@
 
 - Connect micro USB to computer
 
+## Downloading Arduino to computer and basic code flash
 - Download Arduino software onto computer - download all neccesary libraries:
 ✅ Adafruit GFX Library
 ✅ Adafruit SSD1306
