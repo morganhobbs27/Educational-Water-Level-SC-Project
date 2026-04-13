@@ -14,4 +14,5 @@ Make steps for building Water Level Sensor replicable for a high school classroo
 | Maxbotix Ultrasonic Rangefinder - LV-EZ4 - LV-EZ4     | https://www.adafruit.com/product/982  | $28.50 | <img width="126" height="99" alt="Screenshot 2026-04-13 at 10 43 40 AM" src="https://github.com/user-attachments/assets/e7a7fafd-d02c-4ef8-ad5d-fdf36553d6b2" /> |
 | Stacking Headers for Feather - 12-pin and 16-pin female headers   | https://www.adafruit.com/product/2830 | $1.25| <img width="129" height="70" alt="Screenshot 2026-04-13 at 10 43 56 AM" src="https://github.com/user-attachments/assets/4acd1f93-6f9b-4bcf-9634-fc2e08ee7081" /> |
 | FeatherWing Tripler Mini Kit - Prototyping Add-on For Feathers | https://www.adafruit.com/product/3417 | $8.50 | <img width="766" height="505" alt="Screenshot 2026-04-01 at 2 19 38 PM" src="https://github.com/user-attachments/assets/2abca8c2-e3ef-465d-bb70-88f468fc1e7d" /> |
+|Lithium Ion Battery Pack - 3.7V 6600mAh | https://www.adafruit.com/product/353 | $24.50 |<img width="142" height="128" alt="Screenshot 2026-04-13 at 10 47 04 AM" src="https://github.com/user-attachments/assets/f0c7435e-e890-414d-85f3-9bda373085f7" /> |
 
