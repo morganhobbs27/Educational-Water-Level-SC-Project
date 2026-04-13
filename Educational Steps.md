@@ -1,9 +1,14 @@
-md file for steps
 Add all educational steps here:
-- Attatch on pins to each board. 
-- Attatch each board onto FeatherWing tripler. 
-- Connect and soulder wires onto sensor and OLED display microcontroller, as shown in pictures below. (red and blue will cross). 
--Combine all three sensors on the feather board tripler, as shown below. 
+
+
+- Attatch on pins to each board.
+  
+- Attatch each board onto FeatherWing tripler.
+  
+- Connect and soulder wires onto sensor and OLED display microcontroller, as shown in pictures below. (red and blue will cross).
+  
+- Combine all three sensors on the feather board tripler, as shown below.
+
 - Connect micro USB to computer  
 
 - Arduino program download, run basic code assure it is working correctly – flashing word to the OLED screen.  
