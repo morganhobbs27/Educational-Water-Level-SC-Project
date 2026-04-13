@@ -22,6 +22,7 @@ provides sonar range information from 6-inches out to 254-inches with 1-inch res
 | Adalogger FeatherWing - RTC + SD Add-on For All Feather Boards | https://www.adafruit.com/product/2922 | $8.95 | <img width="137" height="73" alt="Screenshot 2026-04-13 at 10 48 17 AM" src="https://github.com/user-attachments/assets/a1808318-0ad3-415a-9c67-50964e3e4978" /> |
 | Assembled Adafruit FeatherWing OLED - 128x32 OLED Add-on For Feather  | https://www.adafruit.com/product/3045 | $15.95 |<img width="130" height="92" alt="Screenshot 2026-04-13 at 10 49 08 AM" src="https://github.com/user-attachments/assets/a7c1d149-16e7-4c81-b87f-882e84817f17" /> |
 |Adafruit Feather RP2040 Adalogger - 8MB Flash with microSD Card - STEMMA QT / Qwiic | https://www.adafruit.com/product/5980 | $14.95 | <img width="128" height="101" alt="Screenshot 2026-04-13 at 10 49 49 AM" src="https://github.com/user-attachments/assets/906d40c9-8561-42a0-9c66-ec7dcf0cbee9" /> |
+| Male to Male jumper wires | https://www.adafruit.com/product/1957 | $1.95 | <img width="185" height="126" alt="Screenshot 2026-04-13 at 11 22 29 AM" src="https://github.com/user-attachments/assets/edb98332-cc57-4a96-8dc8-ac36990dde5d" /> |
 
 
 
