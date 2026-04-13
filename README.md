@@ -9,6 +9,8 @@ Repository for all of our work on the educational water level sensor for Smart C
 
 
 # Sensor Specs
+provides sonar range information from 6-inches out to 254-inches with 1-inch resolution. 
+
 # Materials
 
 | Item name           |     Link      |     Price    | Description/ picture |
