@@ -14,6 +14,8 @@
 
 - Combine all three sensors on the feather board tripler, as shown below.
 
+<img width="517" height="239" alt="Screenshot 2026-04-13 at 11 32 57 AM" src="https://github.com/user-attachments/assets/6229418a-bf73-4e07-9e3c-f911af770203" />
+
 - Connect micro USB to computer
 
 ## Downloading Arduino to computer and basic code flash
