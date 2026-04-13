@@ -25,10 +25,12 @@
 
 - Next, go to Tools → Port → Select "/dev/cu.usbmodemXXXX"
 
-- Arduino program download, run basic code assure it is working correctly – flashing word to the OLED screen. (Found in Github file "Basic_CodeStep1" )  Copy and paste this code into Arduino - can change word in line #41 to flash different word to OLED screen. "upload" will flash code.
-
+- After Arduino program download, run basic code ensure it is working correctly – flashing words to the OLED screen. (Code can be found in Github file "Basic_CodeStep1" )  Copy and paste this code into the Arduino project you have been working in - can change word in line #41 to flash different word to OLED screen. "upload" will flash code.
+  
+## Flashing adapted code to run sensor and get distance measurements from Ultrasonic Rangefinder
 - Flash the adapted code to run water level sensor in Arduino.  
 
-- Once code runs correctly, unplug from computer and plug in battery, code should still run with only the battery plugged in. 
+- Once code runs correctly, unplug from computer and plug in battery, code should still run with only the battery plugged in.
 
+## Housing and Deploying sensor
 - Place sensor in housing with battery plugged in & deploy.  
