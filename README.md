@@ -4,6 +4,7 @@ Repository for all of our work on the educational water level sensor for Smart C
 # Goals of the Project
 Building a low-cost, simple, and functional water level sensor, modified from coast-lab.org 's
 https://github.com/SUPScientist/supscientist.github.io
+Make steps for building Water Level Sensor replicable for a high school classroom.
 
 # Sensor Specs
 # Materials
