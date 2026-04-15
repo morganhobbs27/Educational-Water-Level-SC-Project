@@ -21,9 +21,9 @@
 ## Downloading Arduino to computer and basic code flash
 - Download Arduino software onto computer - download all neccesary libraries:
 
- 📌 Adafruit GFX Library
- 📌 Adafruit SSD1306
- 📌 Adafruit BusIO
+   📌 Adafruit GFX Library 
+   📌 Adafruit SSD1306
+   📌 Adafruit BusIO
  
 ( Quit Arduino program and re-open to refresh libraries )
   
