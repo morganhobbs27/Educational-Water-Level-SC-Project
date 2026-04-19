@@ -41,4 +41,5 @@
 - Once code runs correctly, unplug from computer and plug in battery, code should still run with only the battery plugged in.
 
 ## Housing and Deploying sensor
-- Place sensor in housing with battery plugged in & deploy.  
+- keep battery plugged in and position the rangefinder facing downwards, black circle will face down, and green flat surface will be facing up.
+- Place sensor in housing with battery plugged in & mount to dock.  
