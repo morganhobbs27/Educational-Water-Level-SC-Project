@@ -1,6 +1,12 @@
+<img width="379" height="360" alt="Screenshot 2026-05-04 at 9 44 35 AM" src="https://github.com/user-attachments/assets/77502072-28e6-4f92-a113-7ad815717d31" />
 
 # Add all educational steps here:
 ## How to put sensor and boards together:
+
+
+
+
+<img width="381" height="361" alt="Screenshot 2026-05-04 at 9 45 03 AM" src="https://github.com/user-attachments/assets/89e4d474-f95c-4eee-92fb-ac610e6804f5" />
 
 - Attatch feather pins to all three of the boards.
   
