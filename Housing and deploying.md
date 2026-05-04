@@ -30,7 +30,7 @@ The sensor can be surveyed in with GPS and connected to a datum if necessary, or
 
 After 48 hours of deployment, we retrieved the sensor for data analysis. After looking through our data we could see that the date/time was off, and our measurements were not correct.
 
-This graph is pur data from the CMS dock.
+This graph is our data from the CMS dock.
 
 <img width="529" height="336" alt="Screenshot 2026-05-04 at 9 28 39 AM" src="https://github.com/user-attachments/assets/61f60723-e157-4e31-941b-4fb47aa8ddce" />
 
