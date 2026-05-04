@@ -26,3 +26,11 @@ This digram helped us visualize our measurements better.
 
 Important considerations for mounting include being able to return the sensor to the same place on the dock with semi-permanent mounting hardware, as if the sensor must be removed for cleaning or maintenence, it can be returned to the same location. 
 The sensor can be surveyed in with GPS and connected to a datum if necessary, or deployed as is.  
+
+
+After 48 hours of deployment, we retrieved the sensor for data analysis. After looking through our data we could see that the date/time was off, and our measurements were not correct.
+
+This graph is pur data from the CMS dock.
+
+<img width="529" height="336" alt="Screenshot 2026-05-04 at 9 28 39 AM" src="https://github.com/user-attachments/assets/61f60723-e157-4e31-941b-4fb47aa8ddce" />
+
